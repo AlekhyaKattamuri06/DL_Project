@@ -7,6 +7,7 @@ Object Detection using YOLOv8 (You Only Look Once version 8) is a cutting-edge a
 # Purpose: 
 To object detection in images by using YOLOv8. <br />
 Object detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos. When it comes to object detection, popular detection frameworks are
+
 YOLO <br />
 SSD <br />
 Faster R-CNN <br />
